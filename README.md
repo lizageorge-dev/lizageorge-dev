@@ -25,21 +25,50 @@ I’ve worked on RPA and .NET projects in enterprise environments, helping teams
 
 ---
 
-## What You’ll See Here
+## Featured Learning & Projects
+## 1. Python, AWS & Linux Practice
 
-- Python projects and mini scripts (loops, functions, dictionaries, lists, encryption/decryption, file handling, ) 
-- AWS hands-on experiments (S3, EC2, VPC setup) 
-- Linux scripts and practice exercises 
-- High-level RPA project documentation (no client code) 
+Repository: [AWS Learning](https://github.com/lizageorge-dev/AWS-Learning)
 
----
+- Hands-on learning repository containing Python scripts, Linux exercises, AWS labs, and RPA documentation.
+- Skills & Concepts Practiced:
+- Python programming: loops, functions, lists, dictionaries, file handling, encryption/decryption
+- Linux basics: shell scripting, file system management, user permissions, process monitoring
+- AWS services: S3, EC2, VPC setup
+- RPA documentation: high-level process overviews (no client code)
 
-## Current Focus
+## 2. JavaScript Learning
 
-- Python fundamentals & automation scripts 
-- Linux basics for cloud operations 
-- Hands-on AWS (EC2, S3, VPC) 
-- Preparing for Cloud Support / RPA / Automation Engineer roles 
+Repository: [JavaScript](https://github.com/lizageorge-dev/JavaScript)
+
+- Practice repository for JavaScript fundamentals and small projects.
+- Skills & Concepts Practiced:
+- DOM manipulation and event handling
+- Functions and conditional logic
+- Beginner-friendly projects (e.g., Calculator)
+
+## 3. React Learning
+
+Repository: [React-Learning](https://github.com/lizageorge-dev/React-learning)
+
+- Hands-on practice repository for React fundamentals.
+- Skills & Concepts Practiced:
+- JSX and component structure
+- Props and state management
+- React hooks (useState, useEffect)
+- Component reusability and basic frontend architecture
+
+## 4. AWS CloudBuddy – Serverless Flashcard Application
+
+Repository:[AWS-Cloud-Buddy](https://github.com/lizageorge-dev/AWS-Cloud-Buddy)
+
+- A serverless AWS-based flashcard application designed to help learners prepare for the AWS Cloud Practitioner (CCP) exam.
+- Tech Stack & Skills Practiced:
+- Frontend: React
+- Authentication: AWS Cognito
+- Backend: API Gateway, AWS Lambda
+- Database: DynamoDB
+- Hosting & Deployment: S3, CloudFront
 
 ---
 
